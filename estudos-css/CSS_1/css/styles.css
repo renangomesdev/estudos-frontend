@@ -12,3 +12,34 @@ p{
 .vermelho{
     color: red;
 }
+/* 9 - Id */
+#exclusive-title{
+    background-color: yellow;
+    color: blue;
+    padding: 10px;
+}
+
+h2{
+    border-bottom: 2px solid red;
+}
+
+.titulo{
+    color: purple;
+    font-size: 24px;
+}
+
+.rgb{
+    color: rgb(255, 0, 0);
+}
+
+.mixed-rgb{
+    color: rgb(0, 255, 0);
+}
+.bg{
+    background-color: #000;
+    color: yellow;
+}
+.bg-2{
+    background-color: #345;
+    color: cyan;
+}
